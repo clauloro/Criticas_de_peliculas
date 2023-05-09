@@ -2,5 +2,5 @@
 
 # Usuario: clauloro
 
-# link repositorio: 
+# link repositorio: https://github.com/clauloro/Criticas_de_peliculas.git
 
