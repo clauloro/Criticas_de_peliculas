@@ -1,1 +1,6 @@
-# examen-ordinaria
+# Criticas de películas
+
+# Usuario: clauloro
+
+# link repositorio: 
+
